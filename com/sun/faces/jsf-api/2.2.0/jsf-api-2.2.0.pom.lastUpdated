@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Sep 12 21:19:27 BRT 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1379031567227
+http\://gmaps4jsf.googlecode.com/svn/trunk/gmaps4jsf-repo/.error=
+http\://gmaps4jsf.googlecode.com/svn/trunk/gmaps4jsf-repo/.lastUpdated=1379031566847
+bootstrap-http\://repository.primefaces.org/.lastUpdated=1379031566852
+http\://repository.primefaces.org/.error=Could not transfer artifact com.sun.faces\:jsf-api\:pom\:2.2.0 from/to prime-repo (http\://repository.primefaces.org)\: No connector available to access repository prime-repo (http\://repository.primefaces.org) of type bootstrap using the available factories WagonRepositoryConnectorFactory

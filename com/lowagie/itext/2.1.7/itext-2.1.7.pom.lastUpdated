@@ -1,0 +1,15 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 23 15:16:45 BRST 2013
+http\://cropwiki.irri.org/m2repo/net/sf-gcp/.error=
+https\://repository.jboss.org/nexus/content/groups/public-jboss/.error=Could not transfer artifact com.lowagie\:itext\:pom\:2.1.7 from/to jboss-public-repository-group (https\://repository.jboss.org/nexus/content/groups/public-jboss/)\: Connection to https\://repository.jboss.org refused
+http\://maven.glassfish.org/content/groups/public/.lastUpdated=1387818997982
+http\://repository.prime.com.tr/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1387819005621
+default-http\://download.java.net/maven/2/.lastUpdated=1387818954546
+http\://download.java.net/maven/2/.error=Could not transfer artifact com.lowagie\:itext\:pom\:2.1.7 from/to java.net2 (http\://download.java.net/maven/2)\: Connection to http\://download.java.net refused
+http\://maven.glassfish.org/content/groups/public/.error=
+http\://www.ibiblio.org/maven/.error=Could not transfer artifact com.lowagie\:itext\:pom\:2.1.7 from/to maven (http\://www.ibiblio.org/maven)\: Connection to http\://www.ibiblio.org refused
+http\://cropwiki.irri.org/m2repo/net/sf-gcp/.lastUpdated=1387819001729
+http\://repository.prime.com.tr/.lastUpdated=1387819005137
+default-http\://www.ibiblio.org/maven/.lastUpdated=1387818996677
+default-https\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1387818975586
